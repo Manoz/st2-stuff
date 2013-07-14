@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+box-shadow: ${1:0} ${2:0} ${3:5px} rgba(${4:0,0,0,.4});
+-webkit-box-shadow: ${1:0} ${2:0} ${3:5px} rgba(${4:0,0,0,.4});
+]]></content>
+	<tabTrigger>box</tabTrigger>
+	<description>Box shadow</description>
+	<!-- <scope>source.python</scope> -->
+</snippet>

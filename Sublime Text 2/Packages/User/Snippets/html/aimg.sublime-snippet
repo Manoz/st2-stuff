@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<a title="$1" target="_blank" href="$2">
+	<img src="$3" alt="$4" />
+</a>
+]]></content>
+	<tabTrigger>aimg</tabTrigger>
+	<description>a img</description>
+</snippet>
