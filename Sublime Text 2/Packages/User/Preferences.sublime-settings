@@ -1,7 +1,9 @@
 {
+    // To install This color scheme, launch Package Control (ctrl+shift+p) > Tape "Install" then "Monokai".
     "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
     "font_size": 13,
     "highlight_line": true,
+    // To install Soda theme, launch Package Control (ctrl+shift+p) > Tape "Install" then "Soda".
     "theme": "Soda Light.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
