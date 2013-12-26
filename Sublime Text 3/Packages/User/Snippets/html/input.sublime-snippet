@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<label for="$1">$2</label>
+<input type="text" name="$3" id="$4" />
+]]></content>
+	<tabTrigger>inp</tabTrigger>
+	<description>Label + Input</description>
+	<scope>text.html</scope>
+</snippet>

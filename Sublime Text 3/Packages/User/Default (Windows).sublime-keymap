@@ -1,0 +1,28 @@
+[
+{
+    "keys": [ "ctrl+b"
+    ],
+    "command": "insert_snippet",
+    "args": {
+        "name": "Packages/User/strong.sublime-snippet"
+    }
+},
+{
+    "keys": [
+        "ctrl+i"
+    ],
+    "command": "insert_snippet",
+    "args": {
+        "name": "Packages/User/em.sublime-snippet"
+    }
+},
+{
+    "keys": [ "ctrl+shift+c"
+    ],
+    "command": "insert_snippet",
+    "args": {
+        "name": "Packages/User/css/comment.sublime-snippet"
+    }
+},
+{ "keys": ["ctrl+alt+l"], "command": "csslisible" }
+]

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<em>$SELECTION</em>]]></content>
+	<tabTrigger>em</tabTrigger>
+</snippet>

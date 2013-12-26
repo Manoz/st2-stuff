@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/* =${1:Structure}
+-------------------------------------------------------------------- */
+]]></content>
+	<tabTrigger>comm</tabTrigger>
+	<description>Add badass comment</description>
+	<scope>source.css</scope>
+</snippet>

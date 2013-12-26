@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<li>
+	<a title="$1" target="_blank" href="$2">$3</a>
+</li>
+]]></content>
+	<tabTrigger>lia</tabTrigger>
+	<description>Li + a</description>
+	<scope>text.html</scope>
+</snippet>
